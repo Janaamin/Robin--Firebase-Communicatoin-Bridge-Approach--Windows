@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+birdnet-env/
+
+# Ignore editor history and system files
+.history/
+.DS_Store
+
+# Ignore node_modules (if applicable in the project)
+node_modules/
+
+.env
